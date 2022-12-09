@@ -1,4 +1,4 @@
-(in-package #:kgcreator)
+(in-package #:kgcreator-cl)
 
 (let ((*rdf-nodes-hash*))
   
